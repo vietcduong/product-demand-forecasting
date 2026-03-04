@@ -148,27 +148,13 @@ Understanding demand drivers helps prioritise high-performing products.
 
 # Repository Structure
 
+```
 product-demand-forecasting
 │
-├── README.md
-├── report
-│   └── Retail-Sales-Forecasting-for-various-products.pdf
-│
-├── src
-│   ├── data_processing.py
-│   ├── feature_engineering.py
-│   └── modelling.py
-│
-├── notebooks
-│   └── analysis.ipynb
-│
-├── images
-│   ├── sales_trends.png
-│   ├── correlations.png
-│   ├── feature_importance.png
-│   └── forecast_results.png
-│
-├── data
-│   └── sample_dataset.csv
+├── dataset             # sample dataset used for analysis
+├── notebooks           # analysis and modelling notebooks
+├── report              # full academic report
+└── images              # visualisations used in this project
+```
 │
 └── requirements.txt
