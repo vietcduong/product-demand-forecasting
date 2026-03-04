@@ -70,8 +70,6 @@ Key steps included:
 * Data validation
 * Feature construction
 
-Code: src/notebooks
-
 ## 2. Exploratory Data Analysis
 
 Exploratory analysis was used to uncover patterns and relationships in the dataset.
@@ -83,8 +81,6 @@ Key questions explored:
 * How do promotions influence sales?
 * Are there seasonal demand patterns?
 
-Example visual:
-
 ## 3. Feature Engineering
 
 To improve predictive performance, several new variables were created:
@@ -95,8 +91,6 @@ To improve predictive performance, several new variables were created:
 * Seasonal features
 
 These features capture temporal patterns and behavioural signals in the data.
-
-Code: src/feature_engineering.py
 
 ## 4. Predictive Modelling
 
@@ -113,8 +107,6 @@ Evaluation metrics:
 * MAE
 * R²
 
-Code: src/modelling.py
-
 ---
 
 # Results
@@ -126,8 +118,6 @@ Key findings:
 * Promotions significantly increase short-term demand
 * Sales follow clear seasonal cycles
 * Machine learning models outperform simple statistical baselines
-
-Example output:
 
 ---
 
@@ -154,5 +144,4 @@ product-demand-forecasting
 ├── dataset             # sample dataset used for analysis
 ├── notebooks           # analysis and modelling notebooks
 ├── report              # full academic report
-└── images              # visualisations used in this project
 ```
