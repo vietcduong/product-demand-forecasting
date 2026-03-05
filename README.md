@@ -125,14 +125,9 @@ Key findings:
 
 The analysis highlights several opportunities for retailers.
 
-Promotion Optimisation
-Promotional campaigns drive substantial sales increases.
-
-Improved Inventory Planning
-More accurate forecasts can reduce stockouts and excess inventory.
-
-Product Strategy
-Understanding demand drivers helps prioritise high-performing products.
+* Promotion Optimisation: Promotional campaigns drive substantial sales increases.
+* Improved Inventory Planning: More accurate forecasts can reduce stockouts and excess inventory.
+* Product Strategy: Understanding demand drivers helps prioritise high-performing products.
 
 ---
 
