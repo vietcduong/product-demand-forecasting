@@ -96,7 +96,7 @@ These features capture temporal patterns and behavioural signals in the data.
 
 Several machine learning models were developed and compared.
 
-* Models tested:
+Models tested:
 * Linear Regression
 * Random Forest
 * Gradient Boosting
